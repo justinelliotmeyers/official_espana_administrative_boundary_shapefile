@@ -1,0 +1,17 @@
+source:
+http://www.ign.es/ign/main/index.do
+
+license:
+
+Descarga sin licencia, libre y gratuita de información geográfica digital para cualquier uso:
+
+La información geográfica digital comprendida en el Equipamiento Geográfico de Referencia Nacional (EGRN), (artículo 1.1 de la Orden FOM/956/2008 ) y los Metadatos de los datos geográficos producidos por el IGN y de los servicios de información geográfica prestados por el IGN y el CNIG, no requieren la aceptación de licencia , y su uso, en cualquier caso, tendrá carácter libre y gratuito, siempre que se mencione al IGN como origen y propietario de los datos (mediante la referencia «© Instituto Geográfico Nacional de España»). Para la descarga de esa información no es necesario registrarse como usuario.
+
+
+La información geográfica digital comprendida en el Equipamiento Geográfico de Referencia Nacional (EGRN), Orden FOM/956/2008 y los Metadatos de los datos geográficos producidos por el IGN y de los servicios de información geográfica prestados por el IGN y el CNIG, no requieren la aceptación de licencia , y su uso, en cualquier caso, tendrá carácter libre y gratuito, siempre que se mencione al IGN como origen y propietario de los datos (mediante la referencia «© Instituto Geográfico Nacional de España»).
+
+
+
+sobre los datos:
+   Archivo ZIP que contiene los recintos municipales, provinciales y autonómicos y las líneas límite municipales, provinciales y autonómicas inscritas en la Base de Datos de Límites Jurisdiccionales de España (BDLJE). El formato de los archivos es shapefile (SHP). Sistema geodésico de referencia ETRS89 en la Península, Islas Baleares, Ceuta y Melilla, y REGCAN95 en las Islas Canarias (ambos sistemas compatibles con WGS84).
+En el caso general, las líneas límite inscritas en el Registro Central de Cartografía tienen la incertidumbre geométrica correspondiente a un rango de escalas entre 1:25.000 y 1:100.000, debido a la precisión de los métodos e instrumentos topográficos utilizados en su día por el Instituto Geográfico para su levantamiento y posterior trazado sobre el Mapa Topográfico Nacional, y debido también a los procesos de digitalización de dichas líneas límite sobre cartografía impresa, llevados a cabo años después, para obtener su versión digital. Algunas líneas límite o tramos de ellas, de entre los inscritos originalmente en el RCC, pueden tener carácter «provisional», es decir, que carecen de valor jurídico porque en las correspondientes actas de deslinde consta el desacuerdo entre los ayuntamientos limítrofes. Para obtener una geometría más precisa es necesario el replanteo sobre el terreno de las líneas límite, lo que generalmente es factible partiendo de la documentación técnica (cuaderno topográfico de campo) y jurídica (acta de deslinde) con la que figura inscrita cada una de ellas en el Registro Central de Cartografía. Posteriormente, esta geometría más precisa ha de ser refrendada jurídicamente por los propios Ayuntamientos mediante el levantamiento de actas conjuntas, adicionales a las originales utilizadas para el replanteo, conforme a los procedimientos administrativos establecidos en la legislación aplicable en cada caso. 
